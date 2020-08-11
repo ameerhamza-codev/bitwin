@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BitWin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">BitWin</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_splash_screen">splashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="emergencySMS">This is an automated message and %1$s need your help!\nEmergency Type: %2$s\n</string>
+    <string name="disasterSMS">This is an automated message and %1$s has a disaster and need your help immediately!\nEmergency Type: %2$s\n</string>
+    <string name="fireSMS">This is an automated message and %1$s need to be rescued from fire!\nEmergency Type: %2$s\n</string>
+    <string name="medicalSMS">This is an automated message and %1$s have a medical emergency please help ASAP!\nEmergency Type: %2$s\n</string>
+    <string name="policeSMS">This is an automated message and %1$s is in danger please send help!\nEmergency Type: %2$s\n</string>
+
+
+    <string-array name="contacts">
+        <item>Emergency</item>
+        <item>Disaster</item>
+        <item>Fire</item>
+        <item>Medical</item>
+        <item>Police</item>
+<!--        <item>Forward</item>-->
+    </string-array>
+</resources>
